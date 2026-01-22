@@ -29,7 +29,7 @@ function Contact() {
             <p><b>University:</b> KL University</p>
             <p><b>Department:</b>CSE</p>
             <p><b>Email:</b> premsaiadhikari@gmail.com</p>
-            <p><b>Phone:</b> +91 8309988541</p>
+            <p><b>Phone:</b> +91 8309988543</p>
             <p><b>Address:</b>Vijayawada, guntur, vaddeswaram</p>
           </div>
 
